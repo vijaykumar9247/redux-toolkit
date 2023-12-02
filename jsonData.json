@@ -1,0 +1,49 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"iphone13",
+            "src":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1664009482/Croma%20Assets/Communication/Mobiles/Images/243461_0_tzq0y4.png?tr=w-400",
+            "price":40000
+
+        },
+        {
+            "id":2,
+            "name":"iphone14",
+            "src":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662703724/Croma%20Assets/Communication/Mobiles/Images/261934_qgssvy.png?tr=w-400",
+            "price":50000
+        },
+        {
+            "id":3,
+            "name":"iphone15",
+            "src":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697022284/Croma%20Assets/Communication/Mobiles/Images/300825_0_cndjyl.png?tr=w-400",
+            "price":80000
+        },
+        {
+            "id":4,
+            "name":"iphone15pro",
+            "src":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694674493/Croma%20Assets/Communication/Mobiles/Images/300748_0_gqjriw.png?tr=w-400",
+            "price":130000
+        },
+        {
+            "id":5,
+            "name":"i15promax",
+            "src":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694674381/Croma%20Assets/Communication/Mobiles/Images/300821_0_onayra.png?tr=w-400",
+            "price":160000
+        },
+        {
+            "id":6,
+            "name":"iphone15plus",
+            "src":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694673796/Croma%20Assets/Communication/Mobiles/Images/300776_0_lqb1et.png?tr=w-480",
+            "price":90000
+        },
+        {
+            "id":7,
+            "name":"iphone 14pro",
+            "src":"https://cdn1.smartprix.com/rx-iiPiwsnmt-w1200-h1200/iPiwsnmt.jpg",
+            "price":100000
+        }
+
+
+    ]
+}
